@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "esp32-devkitc-v4_reference_design")(type "KiCad")(uri "C:/Users/jorda/Desktop/Industrial design/Data logger/esp32-devkitc-v4_reference_design.pretty")(options "")(descr ""))
+)
